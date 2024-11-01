@@ -1,0 +1,1 @@
+print ("Solo se que no se nada") #mi primer codigo
